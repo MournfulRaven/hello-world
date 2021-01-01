@@ -1,2 +1,2 @@
 # hello-world
-Just another project
+Hi, I'm Valeriy and I'm just start learning about git
